@@ -27,9 +27,7 @@ class MyClass {
 }
 ```
     
-## output:
-
-![sum](exp_2a.img.png)
+## output:![sum](exp_2a.img.png)
 )
 
 # experiment 2b
