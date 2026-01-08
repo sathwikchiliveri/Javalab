@@ -91,4 +91,4 @@ class student{
     }
 }
 ```
-## output:![]()
+## output:![](exp_2c.img.png)
