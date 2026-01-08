@@ -29,7 +29,7 @@ class MyClass {
     
 ## output:
 
-![check](![exp_2a.img]()
+![check](exp_2a.img.png)
 )
 
 # experiment 2b
