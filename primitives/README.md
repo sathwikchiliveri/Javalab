@@ -84,4 +84,4 @@ import java.util.Scanner;
 
 ```
 ## output:
-![Nature of all the root types]("C:\Users\sathw\OneDrive\Desktop\javalab\exp_1a.img.png")
+![Nature of all the root types]("C:\Users\sathw\OneDrive\Desktop\javalab\exp_1b.img.png")
