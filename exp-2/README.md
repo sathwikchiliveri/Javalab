@@ -27,7 +27,9 @@ class MyClass {
 }
 ```
     
-## output:![]()
+## output:
+
+![]()
 
 # experiment 2b
 ## AIM : 
@@ -57,8 +59,9 @@ class OverloadExample {
         System.out.println("Result of adding three integers: " + obj.add(1, 2, 3));
     }
 }
-## output:![]()
 ```
+## output:![]()
+
 ## experiment 2c
 ## AIM : 
 ```java
