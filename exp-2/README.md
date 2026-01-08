@@ -30,7 +30,7 @@ class MyClass {
 ## output:![]()
 
 # experiment 2b
-## AIM: 
+## AIM : 
 
 ``` java
 class OverloadExample {
@@ -60,7 +60,7 @@ class OverloadExample {
 ## output:![]()
 ```
 ## experiment 2c
-## AIM: 
+## AIM : 
 ```java
 class student{
 
