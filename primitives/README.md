@@ -82,4 +82,4 @@ import java.util.Scanner;
 
 
 ## output:
-![Nature of all the root types]()
+![Nature of all the root types](exp_1b.img.png)
