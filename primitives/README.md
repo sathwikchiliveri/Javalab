@@ -29,7 +29,3 @@ System.out.println("bool:"+obj.bool);
 ## output:
 
 ![the default values of all the DataTypes]("C:\Users\sathw\OneDrive\Desktop\javalab\exp_1a.img.png")
-
-
-
-![Nature of all the root types]("C:\Users\sathw\OneDrive\Desktop\javalab\exp_1b.img.png")
