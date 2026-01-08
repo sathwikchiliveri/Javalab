@@ -61,7 +61,7 @@ class OverloadExample {
     }
 }
 ```
-## output:![]()
+## output:![check](exp_2b.img.png)
 
 ## experiment 2c
 ## AIM : 
