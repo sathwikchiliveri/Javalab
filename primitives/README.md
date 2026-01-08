@@ -1,4 +1,3 @@
-
 # Experiment 1a
 
 ## AIM : display primitive data types
