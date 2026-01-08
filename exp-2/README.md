@@ -29,7 +29,8 @@ class MyClass {
     
 ## output:
 
-![]()
+![check](<img width="598" height="121" alt="exp_2a img" src="https://github.com/user-attachments/assets/85689486-dba8-4368-8130-d58c39134d37" />
+)
 
 # experiment 2b
 ## AIM : 
