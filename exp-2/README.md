@@ -86,6 +86,5 @@ class student{
         s1.display();
     }
 }
-
-## output:![]()
 ```
+## output:![]()
