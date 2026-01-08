@@ -19,3 +19,28 @@ class MyClass {
         System.out.println("Sum: " + result);
     }
 }
+
+
+class OverloadExample {
+
+    int add(int a, int b) {
+        return a + b;
+    }
+
+    double add(double a, double b) {
+        return a + b;
+    }
+
+    int add(int a, int b, int c) {
+        return a + b + c;
+    }
+
+    public static void main(String[] args) {
+
+        OverloadExample obj = new OverloadExample();
+
+        System.out.println("Result of adding two integers: " + obj.add(10, 20));
+        System.out.println("Result of adding two double values: " + obj.add(5.5, 4.5));
+        System.out.println("Result of adding three integers: " + obj.add(1, 2, 3));
+    }
+}
