@@ -1,5 +1,10 @@
+# Experiment 2a
+    
+ ## AIM : 
+  
+``` java
 
-# exp_2a 
+
 class MyClass {
 
     void displayMessage() {
@@ -20,11 +25,15 @@ class MyClass {
         System.out.println("Sum: " + result);
     }
 }
+```
+    
+## output:![]()
 
+# experiment 2b
+## AIM: 
 
-## exp_2b
+``` java
 class OverloadExample {
-
     int add(int a, int b) {
         return a + b;
     }
@@ -48,9 +57,11 @@ class OverloadExample {
         System.out.println("Result of adding three integers: " + obj.add(1, 2, 3));
     }
 }
-
-## exp_2c.c
-
+## output:![]()
+```
+## experiment 2c
+## AIM: 
+```java
 class student{
 
     String name;
@@ -75,3 +86,6 @@ class student{
         s1.display();
     }
 }
+
+## output:![]()
+```
