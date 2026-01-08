@@ -29,7 +29,7 @@ class MyClass {
     
 ## output:
 
-![check](exp_2a.img.png)
+![sum](exp_2a.img.png)
 )
 
 # experiment 2b
@@ -61,7 +61,7 @@ class OverloadExample {
     }
 }
 ```
-## output:![check](exp_2b.img.png)
+## output:![overload](exp_2b.img.png)
 
 ## experiment 2c
 ## AIM : 
@@ -91,4 +91,4 @@ class student{
     }
 }
 ```
-## output:![](exp_2c.img.png)
+## output:![student details](exp_2c.img.png)
