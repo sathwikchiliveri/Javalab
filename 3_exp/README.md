@@ -117,7 +117,7 @@ class BinarySearchDemo {
 }
 ```
 ## output:
-![the output is](exp_3b.img.png)
+![the output is](exp3b.img.png)
 
 # Experiment_3c
 ## AIM:
