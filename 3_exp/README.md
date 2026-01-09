@@ -117,7 +117,7 @@ class BinarySearchDemo {
 }
 ```
 ## output:
-![]()
+![the output is](exp_3b.img.png)
 
 # Experiment_3c
 ## AIM:
@@ -155,4 +155,4 @@ class BubbleSort {
 }
 ```
 ##output:
-![]()
+![the output is](exp_3c.img.png)
