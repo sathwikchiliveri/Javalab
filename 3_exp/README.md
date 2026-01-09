@@ -154,5 +154,5 @@ class BubbleSort {
     }
 }
 ```
-##output:
+## output:
 ![the output is](exp_3c.img.png)
