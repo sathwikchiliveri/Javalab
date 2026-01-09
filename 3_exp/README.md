@@ -48,7 +48,8 @@
     }
 }
 ```
-## output: ![]()
+## output: 
+![the output is](exp_3a.img.png)
 
 # Experiment_3b
 ## AIM:
