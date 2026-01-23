@@ -25,89 +25,37 @@ String mainString = sc.nextLine();
     }
 }
 ```
+## OUTPUT:
+![The output is]()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## AIM: PerfectNumber
+``` java
 import java.util.Scanner;
 
 class PerfectNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
         System.out.print("Enter a number: ");
         int num = sc.nextInt();
-
         int sum = 0;
-
         for (int i = 1; i < num; i++) {
             if (num % i == 0) {
                 sum += i;
             }
         }
-
         if (sum == num)
             System.out.println(num + "num is a perfect number.");
         else
             System.out.println(num + "num is not a perfect number.");
     }
 }
+```
+## OUTPUT:
+![The out put is]()
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## AIM:
+``` java
 import java.util.Scanner;
 
 class Palindrome {
@@ -129,3 +77,6 @@ class Palindrome {
         System.out.println(str+" is a palindrome");
     }
 }
+```
+## OUTPUT:
+![The output is]()
