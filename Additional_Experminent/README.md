@@ -51,7 +51,7 @@ class PerfectNumber {
 }
 ```
 ## OUTPUT:
-![The out put is]()
+![The out put is](PerfectNumber.png)
 
 
 ## AIM:
