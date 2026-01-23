@@ -79,4 +79,4 @@ class Palindrome {
 }
 ```
 ## OUTPUT:
-![The output is]()
+![The output is](palindrome.png)
