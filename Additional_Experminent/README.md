@@ -26,7 +26,7 @@ String mainString = sc.nextLine();
 }
 ```
 ## OUTPUT:
-![The output is]()
+![The output is](Substring.png)
 
 ## AIM: PerfectNumber
 ``` java
