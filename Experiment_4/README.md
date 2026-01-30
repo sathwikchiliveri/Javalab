@@ -1,4 +1,5 @@
-#Experiment 4a
+# Experiment
+
 ##AIM: To write a JAVA program to implement Single Inheritance.
 ``` java
 // Person.java
