@@ -69,8 +69,7 @@ public class TestEmployee {
 # Experiment 4b
 ## AIM: 
 To write a JAVA program to implement Single Inheritance.
-```
-java
+```java
 // Bicycle.java
 public class Bicycle {
     String pedalType;
@@ -122,7 +121,8 @@ public class TestVehicle {
 
 
 ## output:
-![the output is]()
+![the output is]
+(exp_4b.png)
 
 #experiment 4c
 ##AIM:
@@ -188,4 +188,5 @@ public class TestFigure {
 
 ```
 ## output:
-![the output is]()
+![the output is]
+(exp_4c.png)
