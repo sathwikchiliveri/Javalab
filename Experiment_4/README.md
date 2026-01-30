@@ -121,8 +121,7 @@ public class TestVehicle {
 
 
 ## output:
-![the output is]
-(exp_4b.png)
+![the output is](exp_4b.png)
 
 #experiment 4c
 ##AIM:
@@ -188,5 +187,4 @@ public class TestFigure {
 
 ```
 ## output:
-![the output is]
-(exp_4c.png)
+![the output is](exp_4c.png)
