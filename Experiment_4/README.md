@@ -62,7 +62,7 @@ public class TestEmployee {
     }
 }
 
-
+```
 ## output:
 ![the output is]()
 
@@ -125,7 +125,7 @@ public class TestVehicle {
 
 #experiment 4c
 ##AIM: To write a JAVA program to implement Single Inheritance.
-java
+``` java
 // Figure.java
 abstract class Figure {
     double dim1;
@@ -184,6 +184,6 @@ public class TestFigure {
 
 
 
-
+```
 ## output:
 ![the output is]()
