@@ -64,7 +64,7 @@ public class TestEmployee {
 
 ```
 ## output:
-![the output is]()
+![the output is](exp_4a.png)
 
 # Experiment 4b
 ## AIM: 
