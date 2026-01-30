@@ -65,3 +65,59 @@ public class TestEmployee {
 ## output:
 ![the output is]()
 
+# Experiment 4b
+## AIM: To write a JAVA program to implement Single Inheritance.
+```
+java
+// Bicycle.java
+public class Bicycle {
+    String pedalType;
+
+    void showBicycleInfo() {
+        System.out.println("This is a bicycle with pedals.");
+        System.out.println("Pedal Type : " + pedalType);
+    }
+}
+
+
+// Motorbike.java
+public class Motorbike extends Bicycle {
+    int engineCapacity;
+
+    void showMotorbikeInfo() {
+        System.out.println("This motorbike has an engine.");
+        System.out.println("Engine Capacity : " + engineCapacity + " cc");
+    }
+}
+
+// ElectricBike.java
+public class ElectricBike extends Motorbike {
+    int batteryCapacity;
+
+    void showElectricBikeInfo() {
+        System.out.println("This electric bike has an electric motor and battery.");
+        System.out.println("Battery Capacity : " + batteryCapacity + " Wh");
+    }
+}
+
+
+// TestVehicle.java
+public class TestVehicle {
+    public static void main(String[] args) {
+
+        ElectricBike eBike = new ElectricBike();
+
+        eBike.pedalType = "Standard Pedals";
+        eBike.engineCapacity = 150;
+        eBike.batteryCapacity = 500;
+
+        eBike.showBicycleInfo();      // from Bicycle
+        eBike.showMotorbikeInfo();    // from Motorbike
+        eBike.showElectricBikeInfo(); // from ElectricBike
+    }
+}
+```
+
+
+## output:
+![the output is]()
