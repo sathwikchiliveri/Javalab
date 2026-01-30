@@ -1,6 +1,5 @@
 # Experiment
-##AIM:
-To write a JAVA program to implement Single Inheritance.
+## AIM:To write a JAVA program to implement Single Inheritance.
 ``` java
 // Person.java
 public class Person {
@@ -67,8 +66,7 @@ public class TestEmployee {
 ![the output is](exp_4a.png)
 
 # Experiment 4b
-## AIM: 
-To write a JAVA program to implement Single Inheritance.
+## AIM: To write a JAVA program to implement Single Inheritance.
 ```java
 // Bicycle.java
 public class Bicycle {
@@ -124,8 +122,7 @@ public class TestVehicle {
 ![the output is](exp_4b.png)
 
 #experiment 4c
-##AIM:
-To write a JAVA program to implement Single Inheritance.
+## AIM:To write a JAVA program to implement Single Inheritance.
 ``` java
 // Figure.java
 abstract class Figure {
