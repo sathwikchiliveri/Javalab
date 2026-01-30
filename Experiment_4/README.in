@@ -1,6 +1,6 @@
-# Experiment 4a
-## AIM: To write a JAVA program to implement Single Inheritance.
-java
+#Experiment 4a
+##AIM: To write a JAVA program to implement Single Inheritance.
+``` java
 // Person.java
 public class Person {
     String name;
