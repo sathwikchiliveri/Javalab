@@ -121,3 +121,68 @@ public class TestVehicle {
 
 ## output:
 ![the output is]()
+
+#experiment 4c
+##AIM: To write a JAVA program to implement Single Inheritance.
+java
+// Figure.java
+abstract class Figure {
+    double dim1;
+    double dim2;
+
+    // Constructor
+    Figure(double dim1, double dim2) {
+        this.dim1 = dim1;
+        this.dim2 = dim2;
+    }
+
+    // Abstract method
+    abstract double area();
+}
+
+// Rectangle.java
+class Rectangle extends Figure {
+
+    // Constructor
+    Rectangle(double length, double breadth) {
+        super(length, breadth);
+    }
+
+    // Implementing abstract method
+    double area() {
+        return dim1 * dim2;
+    }
+}
+
+// Triangle.java
+class Triangle extends Figure {
+
+    // Constructor
+    Triangle(double base, double height) {
+        super(base, height);
+    }
+
+    // Implementing abstract method
+    double area() {
+        return 0.5 * dim1 * dim2;
+    }
+}
+
+
+// TestFigure.java
+public class TestFigure {
+    public static void main(String[] args) {
+
+        Figure f1 = new Rectangle(10, 5);
+        System.out.println("Area of Rectangle = " + f1.area());
+
+        Figure f2 = new Triangle(8, 6);
+        System.out.println("Area of Triangle = " + f2.area());
+    }
+}
+
+
+
+
+## output:
+![the output is]()
